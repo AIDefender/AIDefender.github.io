@@ -7,6 +7,4 @@ nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+I enjoy listening to classical music in my spare time. My top-3 favourite composers are Gustav Mahler, Johannes Brahms, and Pyotr Ilyich Tchaikovsky. Check my 小红书 account for my past experience in concerts. I play video games like Genshin Impact, Honkai: Star Rail, PUBG: BATTLEGROUNDS, and Sanguosha. Check my Bilibili account for game recordings. I am a fan of Manchester United in the Premire League and Fernando Alonso in F1 Grand Prix. I have played \~50k hands in Texas Hold'em. 
