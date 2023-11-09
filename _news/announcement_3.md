@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2023-10-06 15:59:00-0400
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+We release our new paper [AdaRec: Adaptive Sequential Recommendation for Reinforcing Long-term User Engagement](https://arxiv.org/abs/2310.03984).
