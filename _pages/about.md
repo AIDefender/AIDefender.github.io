@@ -22,4 +22,4 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 I am a 2nd-year Ph.D. student at the School of Computer Science and Engineering, Nanyang Technological University, Singapre, supervised by Prof. Bo An. Previously, I obtained my B.Sc. of Artificial Intelligence from Nanjing University in 2022. In my undergraduate study, I worked with Prof. Yang Yu at LAMDA. I also interned at the MMLab of the Chinese University of Hong Kong with Prof. Bolei Zhou, and Kuaishou Technology.
 
-I study safe and robust decision-making algorithms and their application in real-world problems, such as games, autonomous driving, and recommendation systems.
+I study safe and robust decision-making algorithms and their applications in real-world problems, such as video games, autonomous driving, and recommendation systems.

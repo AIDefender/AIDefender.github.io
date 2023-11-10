@@ -2,7 +2,7 @@
 layout: page
 permalink: /Services/
 title: Services
-description: Materials for courses you taught. Replace this text with your description.
+description:
 nav: true
 nav_order: 5
 ---
@@ -11,9 +11,9 @@ For now, this page is assumed to be a static description of your courses. You ca
 
 Organize your courses by years, topics, or universities, however you like! -->
 
-# Reviewing
+## Reviewing
 DAI, ACML, ICML, NeurIPS, ICLR.
 
-# Teaching
+## Teaching
 
 Software Engineering (TA), NTU Singapore, 2023 Spring.
