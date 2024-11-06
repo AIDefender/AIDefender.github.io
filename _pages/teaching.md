@@ -12,8 +12,11 @@ For now, this page is assumed to be a static description of your courses. You ca
 Organize your courses by years, topics, or universities, however you like! -->
 
 ## Reviewing
-DAI, ACML, ICML, NeurIPS, ICLR.
+Conferences: DAI, ACML, ICML, NeurIPS, ICLR, AAAI, WWW, AAMAS.
+
+Journals: TPAMI, TETCI
 
 ## Teaching
 
 Software Engineering (TA), NTU Singapore, 2023 Spring.
+Software Engineering (TA), NTU Singapore, 2024 Spring.

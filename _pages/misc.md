@@ -7,6 +7,8 @@ nav: true
 nav_order: 6
 ---
 ## Awards
+Top Reviewer of NeurIPS 2024
+
 Outstanding Graduate of Nanjing University 2022
 
 Outstanding Undergraduate Thesis of Nanjing University 2022
