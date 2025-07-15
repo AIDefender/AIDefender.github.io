@@ -23,3 +23,5 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 I am a 3rd-year Ph.D. student at the College of Computing and Data Science, Nanyang Technological University, Singapre, supervised by Prof. [Bo An](https://personal.ntu.edu.sg/boan/). Previously, I obtained my B.Sc. of Artificial Intelligence from Nanjing University in 2022. In my undergraduate study, I worked with Prof. [Yang Yu](https://www.wolai.com/eyounx/dtR1MTyRXS5tP5Cex4KtdK) at LAMDA. I also interned at the MMLab of the Chinese University of Hong Kong with Prof. [Bolei Zhou](https://boleizhou.github.io/), Kuaishou Technology with Dr. [Qingpeng Cai](https://qingpengcai.github.io/), Kunlun 2050 Research with Prof. [Shuicheng Yan](https://yanshuicheng.info/) and TikTok with Dr. [Qian Liu](https://siviltaram.github.io/).
 
 I study safe, robust, and generalizable decision-making algorithms and their applications in real-world problems, such as large language models, GUI navigation, video games, autonomous driving, robotics locomotion, and recommendation systems.
+
+I am on the 2026 job market. Feel free to reach out!
