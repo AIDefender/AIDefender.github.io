@@ -30,4 +30,4 @@ Chinese National Scholarship 2019
 15th prize in the 30th Chinese Chemistry Olymics (Jiang Su Province) 2017
 
 ## Hobbies
-I enjoy listening to classical music in my spare time. My top-3 favourite composers are Gustav Mahler, Johannes Brahms, and Pyotr Ilyich Tchaikovsky. I play video games like Genshin Impact, Honkai: Star Rail, PUBG: BATTLEGROUNDS, and Sanguosha. Check my [Bilibili account](https://space.bilibili.com/342254953) for game recordings. I am a fan of Manchester United in the Premier League and Fernando Alonso in F1 Grand Prix. I have played \~50k hands of Texas Hold'em. 
+I enjoy listening to classical music in my spare time. My top-3 favourite composers are Gustav Mahler, Johannes Brahms, and Pyotr Ilyich Tchaikovsky. My favourite video games include Kingdom Come: Deliverance 2, Cyberpunk 2077, Genshin Impact, GT7, Balatro, Red Dead Redemption 2, and BlackMyth Wukong. Check my [Bilibili account](https://space.bilibili.com/342254953) for game recordings. I am a fan of Manchester United in the Premier League and Fernando Alonso in F1 Grand Prix. I have played \~50k hands of Texas Hold'em. 
