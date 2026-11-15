@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Tencent Hy</a>. zhenghai001@e.ntu.edu.sg
+subtitle: <a href='https://hy.tencent.ai/'>Tencent Hy</a>. zhenghai001@e.ntu.edu.sg
 
 profile:
   align: right
